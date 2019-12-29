@@ -62,7 +62,6 @@
   
 
 <main data-ui-field="pages">
-
   <!-- HOME -->
   <section data-ui-load="pages/home"
            data-ui-options="options.mainPage"></section>
@@ -75,8 +74,27 @@
 
   <!-- ABOUT -->
   <section data-ui-include="pages/about" layout="column top-center"></section>
-
 </main>
+
+
+<dd style = "top:0;right:-1;position:absolute;z-index: 9999">
+<!-- This line should go where you want to put your button -->
+<div class="money-button"
+  data-to="8986"
+  data-amount=""
+  data-currency="EUR"
+  data-label="Donar"
+  data-client-identifier="a1291c20c1ee392504a84dd296b71846"
+  data-button-id="1564760808656"
+  data-button-data="{'ID':'JUEGOAMIGO'}"
+  data-type="buy",
+  data-editable="true",
+  data-disabled="false",
+  data-dev-mode="false"
+></div>
+<!-- This line can go anywhere -->
+<script src="https://www.moneybutton.com/moneybutton.js"></script>
+</dd>
 
 <!-- The footer with toolbar buttons -->
 <footer data-ui-include="layout/footer"
