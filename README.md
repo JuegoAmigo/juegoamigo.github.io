@@ -1,9 +1,12 @@
 # juegoamigo.github.io
 Make your own Videogame portal in internet using GitHub pages. Just FORK this repo.
+In this portal you can play online without install nothing and using your browser to the best OpenSource games and based on WASM (WebAssembly technology, that converts C/C++ code in Javascript) You can play some games from desktop, and others from mobile! There are webs with a lot of old-retro games, if you have the original game in your home, you can play it in a legal way. Games like Quake 3, Doom 3, OpenArena, TeeWorlds, Minecraft with modpacks, MineTest, indie games like the famous Maldita Castilla, and super emulators like Dolphin, etc. Just enter and play! (yourself or with your family or friends in LAN mode or Internet multiplayer mode).
+This is not streaming like Google Arcadia but is similar experience!
 Link to the portal: https://juegoamigo.github.io/
 
-## html5 template based on the WebFlix template
+## html5 template based on the Webflix template
 Based on the source of: https://zuixjs.github.io/zuix-web-flix/
+The template is similar to Netflix UI
 
 # Modify the files:
 ## index.html
