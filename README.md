@@ -15,7 +15,8 @@ header:
 ```
 <title>JuegoAmigo.github.io - The best free WASM OpenSource games!</title>
 ```
-Moneybutton code:
+Moneybutton code (To accept donations in Bitcoin (SV) Satoshi Vision):
+More info: https://www.moneybutton.com/
 ```
 <dd style = "top:0;right:-1;position:absolute;z-index: 9999">
 <!-- This line should go where you want to put your button -->
